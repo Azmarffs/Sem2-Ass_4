@@ -1,0 +1,5 @@
+Cheeseburger 9.99
+Chicken Sandwich 8.99
+Salad 7.99
+Fries 2.99
+Soda 1.99
